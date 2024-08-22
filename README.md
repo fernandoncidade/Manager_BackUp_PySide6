@@ -1,6 +1,6 @@
 # Gerenciador de Backup
 
-Este projeto é uma aplicação de gerenciamento de backup desenvolvida em Python usando PyQt6. A aplicação permite aos usuários selecionar diferentes métodos de compressão para arquivar pastas e arquivos. A interface gráfica é projetada para ser intuitiva e fácil de usar, oferecendo suporte para vários formatos de compressão e funcionalidades adicionais. São suportados 4 métodos de compressão e de descompressão.
+Este projeto é uma aplicação de gerenciamento de backup desenvolvida em Python usando PySide6. A aplicação permite aos usuários selecionar diferentes métodos de compressão para arquivar pastas e arquivos. A interface gráfica é projetada para ser intuitiva e fácil de usar, oferecendo suporte para vários formatos de compressão e funcionalidades adicionais. São suportados 4 métodos de compressão e de descompressão.
 
 Observação: É necessário ter instalado no seu PC os seguintes programas: WinRAR e 7-Zip. Para utilizar a compressão do WinRAR é necessário ter comprado a versão paga. Pois se trata de um software proprietário.
 
