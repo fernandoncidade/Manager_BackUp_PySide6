@@ -163,7 +163,7 @@
       <workItem from="1727497180926" duration="685000" />
       <workItem from="1729005991864" duration="225000" />
       <workItem from="1729006233216" duration="31000" />
-      <workItem from="1729006275264" duration="185000" />
+      <workItem from="1729006275264" duration="228000" />
     </task>
     <servers />
   </component>
@@ -172,7 +172,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Manager_BackUp_PySide6$Gerenciador_BackUp_Standart_7Zip.coverage" NAME="Gerenciador BackUp_Standart_7Zip Coverage Results" MODIFIED="1724317854585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Manager_BackUp_PySide6$Gerenciador_BackUp_Standart_7Zip_WinRAR.coverage" NAME="Gerenciador BackUp_Standart_7Zip_WinRAR Coverage Results" MODIFIED="1729006372733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Manager_BackUp_PySide6$Gerenciador_BackUp_Standart_7Zip_WinRAR.coverage" NAME="Gerenciador BackUp_Standart_7Zip_WinRAR Coverage Results" MODIFIED="1729006464506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Manager_BackUp_PySide6$Gerenciador_BackUp_Custom_7Zip.coverage" NAME="Gerenciador BackUp_Custom_7Zip Coverage Results" MODIFIED="1724317790303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Manager_BackUp_PySide6$Gerenciador_BackUp_Custom_7Zip_WinRAR.coverage" NAME="Gerenciador BackUp_Custom_7Zip_WinRAR Coverage Results" MODIFIED="1724317831891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
